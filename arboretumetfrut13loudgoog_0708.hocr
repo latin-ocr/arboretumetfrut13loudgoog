@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut13loudgoog_0708.png"; bbox 0 0 863 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 197 113 756 127">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 197 113 756 127">
+     <span class='ocr_line' id='line_1_1' title="bbox 197 113 756 127; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 197 113 230 127; x_wconf 73' lang='lat'><strong>454</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 341 116 445 127; x_wconf 71' lang='grc' dir='ltr'>Λιιοιιῑτυκ</span> <span class='ocrx_word' id='word_1_3' title='bbox 459 116 493 127; x_wconf 74' lang='lat' dir='ltr'><strong>nm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 505 115 620 127; x_wconf 70' lang='lat' dir='ltr'>munem-un.</span> <span class='ocrx_word' id='word_1_5' title='bbox 693 116 732 127; x_wconf 72' lang='lat' dir='ltr'><strong>mu</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 738 117 756 127; x_wconf 69' lang='grc' dir='ltr'><strong>ιιι,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 294 154 657 173">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 294 154 657 173">
+     <span class='ocr_line' id='line_1_2' title="bbox 294 154 657 173; baseline 0 -5"><span class='ocrx_word' id='word_1_7' title='bbox 294 154 336 168; x_wconf 59' lang='lat' dir='ltr'><strong>»em</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 341 154 431 170; x_wconf 61' lang='lat' dir='ltr'><strong>minanam</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 452 155 485 169; x_wconf 76' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 492 154 595 169; x_wconf 65' lang='lat' dir='ltr'><strong>munddmmd</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 600 154 657 173; x_wconf 72' lang='lat' dir='ltr'><strong>anle.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

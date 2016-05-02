@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut13loudgoog_0704.png"; bbox 0 0 863 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 339 123 771 135">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 339 123 771 135">
+     <span class='ocr_line' id='line_1_1' title="bbox 339 123 771 135; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 339 123 445 134; x_wconf 67' lang='grc' dir='ltr'>ΑιΒυιιΜ-υι</span> <span class='ocrx_word' id='word_1_2' title='bbox 457 123 493 134; x_wconf 67' lang='lat' dir='ltr'>Ama</span> <span class='ocrx_word' id='word_1_3' title='bbox 505 124 621 135; x_wconf 75' lang='grc' dir='ltr'>ηιιιτιοιτυιί,</span> <span class='ocrx_word' id='word_1_4' title='bbox 700 124 771 135; x_wconf 53' lang='lat' dir='ltr'>runnu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 568 162 799 178">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 568 162 799 178">
+     <span class='ocr_line' id='line_1_2' title="bbox 568 162 799 178; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 568 163 611 177; x_wconf 59' lang='lat' dir='ltr'>Rae</span> <span class='ocrx_word' id='word_1_6' title='bbox 616 162 708 178; x_wconf 68' lang='grc' dir='ltr'>ὠιυιᾰιιυι.</span> <span class='ocrx_word' id='word_1_7' title='bbox 729 162 758 177; x_wconf 63' lang='lat' dir='ltr'>&#39;nze</span> <span class='ocrx_word' id='word_1_8' title='bbox 763 162 799 177; x_wconf 70' lang='lat' dir='ltr'>ouu-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
